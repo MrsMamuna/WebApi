@@ -1,0 +1,12 @@
+D:\Cpp\NetCoreWebAPI\Services.Shared\bin\Debug\net8.0\Services.Shared.deps.json
+D:\Cpp\NetCoreWebAPI\Services.Shared\bin\Debug\net8.0\Services.Shared.dll
+D:\Cpp\NetCoreWebAPI\Services.Shared\bin\Debug\net8.0\Services.Shared.pdb
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.csproj.AssemblyReference.cache
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.AssemblyInfoInputs.cache
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.AssemblyInfo.cs
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.csproj.CoreCompileInputs.cache
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.dll
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\refint\Services.Shared.dll
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\Services.Shared.pdb
+D:\Cpp\NetCoreWebAPI\Services.Shared\obj\Debug\net8.0\ref\Services.Shared.dll
